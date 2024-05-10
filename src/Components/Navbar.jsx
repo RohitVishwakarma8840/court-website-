@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link ,NavLink } from 'react-router-dom'
 
 
 const Navbar = () => {
@@ -13,9 +14,7 @@ const Navbar = () => {
  <li className='text-2xl bold'>|| यतो धर्मस्ततो जय: ||</li>
 </ul>
 
-
 </div>
-
 
 
 
