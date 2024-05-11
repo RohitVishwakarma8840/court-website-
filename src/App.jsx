@@ -7,6 +7,7 @@ import Heroes2 from './Components/Heroes'
 import About from './Components/About'
 import Features from './Components/Features'
 import Contact from './Components/Contact'
+import Documentupload from './Components/Documentupload'
 
 function App() {
 
@@ -22,7 +23,7 @@ function App() {
      <Page1/>
      <Heroes2/>
      <Contact/>
-     
+     <Documentupload/>
      
      </>
   )
